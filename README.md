@@ -1,7 +1,11 @@
 # Ramen Rush — Tiny Counter, Big Flavour
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/chamceul46/ramen-rush-makefun/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/chamceul46/ramen-rush-makefun/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 Entry for the make.fun bounty **"Make the best cooking game"**
-(`best-cooking-game-20261125-0137`).
+(`best-cooking-game-20261125-0137`): https://make.fun/bounty/best-cooking-game-20261125-0137
 
 An original counter-cooking game that plays offline in a desktop browser.
 You run a tiny ramen counter for one 120-second shift:
