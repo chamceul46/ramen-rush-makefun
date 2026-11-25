@@ -1,0 +1,40 @@
+/* Ramen Rush — page chrome. The game itself is drawn on the canvas. */
+:root {
+  color-scheme: dark;
+}
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #14101d;
+  font-family: "Trebuchet MS", "Segoe UI", Verdana, sans-serif;
+  color: #f3e9d2;
+}
+#wrap {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px;
+  background: radial-gradient(1200px 700px at 50% 30%, #241a38 0%, #14101d 70%);
+}
+#game {
+  width: min(96vw, 1280px);
+  height: auto;
+  border-radius: 14px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.55), 0 0 0 4px #3a2a1c;
+  background: #1d1430;
+  cursor: pointer;
+}
+#hint {
+  margin: 0;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  opacity: 0.75;
+  text-align: center;
+}
